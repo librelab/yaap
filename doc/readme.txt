@@ -8,3 +8,6 @@ http://ncsu.librelab.org/2019/10/setting-up-bitnami-wamp-stack-for.html
 
 Installing git for windows
 http://ncsu.librelab.org/2019/10/installing-git-for-windows-minimalist.html
+
+Git cheatsheet basic link
+http://ncsu.librelab.org/2019/10/git-cheatsheet-with-screenshot-basic.html
