@@ -11,3 +11,6 @@ http://ncsu.librelab.org/2019/10/installing-git-for-windows-minimalist.html
 
 Git cheatsheet basic link
 http://ncsu.librelab.org/2019/10/git-cheatsheet-with-screenshot-basic.html
+
+Installing webzash v2.8 from webzash.org
+http://ncsu.librelab.org/2019/10/installing-webzash-v28-downloaded-from.html
