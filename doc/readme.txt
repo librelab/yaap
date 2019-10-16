@@ -14,3 +14,6 @@ http://ncsu.librelab.org/2019/10/git-cheatsheet-with-screenshot-basic.html
 
 Installing webzash v2.8 from webzash.org
 http://ncsu.librelab.org/2019/10/installing-webzash-v28-downloaded-from.html
+
+Setup webzash with cakephp from scratch - github repo
+http://ncsu.librelab.org/2019/10/setup-webzash-with-cakephp-from-scratch.html
